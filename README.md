@@ -1,3 +1,5 @@
+[Live dashboard link][https://app.powerbi.com/groups/me/reports/86c5a805-1912-4c7b-bd59-33501a65910d/ReportSectionb7e0f7732a64a25b860a?experience=power-bi]
+
 # Marketing-Insights
  As a marketing data analyst my task is to collect the data from survey and convert these survey results to meaningful insights which the team can use to drive actions.
 
